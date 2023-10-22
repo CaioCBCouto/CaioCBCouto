@@ -4,8 +4,8 @@
 
 I'm a computer science student who's passionate about writing code, building software and building games(sometimes).
 
-- 🔭 I’m currently a CS student at CESAR School.
-- 📚 I’m currently learning backend development in [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html) and [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://dev.java/).
+- 🔭 I’m currently a CompSci student at CESAR School.
+- 📚 I’m currently learning backend communications development in [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170) and database management in [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com).
 - 💻 I’m looking for a cloud software development or QA internship.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-couto-589834205/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiobarretocouto4@gmail.com)
 
