@@ -11,5 +11,4 @@ I'm a computer science student who's passionate about writing code, building sof
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xdzjs9j5elunwi5mavd42euo3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=xdzjs9j5elunwi5mavd42euo3&redirect=true)
 
-⭐️ From [C4BrrT](https://github.com/C4BrrT)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi) && [hazemessam](https://github.com/hazemessam)
+⭐️ Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi) && [hazemessam](https://github.com/hazemessam)
